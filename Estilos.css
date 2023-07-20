@@ -1,0 +1,27 @@
+body{
+    background-color: #e2e2e2;
+    color: #ff81a4;
+    font-family: 'Belanosima', sans-serif;
+
+ }
+
+ h3{
+    color: #c60241;
+ }
+
+ h1,p{
+    color:#0d4a78;
+ }
+
+ img {
+    width: 300px;
+    height: 300px;
+    border-style: solid;
+    border-color: #bb007e;
+    padding: 10px;
+    margin-bottom: 10px;
+ }
+ 
+ small{
+    color: black;
+ }
